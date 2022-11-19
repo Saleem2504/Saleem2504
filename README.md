@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saleem2504
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning pheolic javascript
+- 🌱 I’m currently learning phenolic javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
